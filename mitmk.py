@@ -7,9 +7,8 @@ from subprocess import Popen , PIPE
 
 helP='''
 +----------------------------------------------------------------+
-|  \033[0;49;92m[*] \033[0m if you first run the tool you have to run setup.sh first |
-|  \033[0;49;92m[*] \033[0m usege :sudo chmod +x setup.sh                            | 
-|  \033[0;49;92m[*] \033[0m usege :sudo ./setup.sh                                   |
+|  \033[0;49;92m[*] \033[0m if you first run the tool you have to run setup.py first |
+|  \033[0;49;92m[*] \033[0m usege :python setup.py                                   | 
 |  \033[0;49;92m[*] \033[0m run the tool as super user                               |
 +----------------------------------------------------------------+
 '''
